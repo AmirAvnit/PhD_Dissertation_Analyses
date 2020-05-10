@@ -1,7 +1,6 @@
 # PhD Dissertation Analyses
 R codes of statistical analyses of EEG data, behavioral and clinical measurements for my PhD dissertation in computational neuroscience.
-The study was perfromed in the Brain Stimulation Laboratory in the Ben-Gurion University of the Negev &emdash 
-https://lifeserv.bgu.ac.il/wp/azangen/ &emdash under the supervision of Prof. Abraham Zangen.
+The study was perfromed in the Brain Stimulation Laboratory in the Ben-Gurion University of the Negev, under the supervision of Prof. Abraham Zangen - https://lifeserv.bgu.ac.il/wp/azangen/
 
 
 ## Dissertation Title
