@@ -1,35 +1,37 @@
 # PhD Dissertation Analyses
 R codes of statistical analyses of EEG data, behavioral and clinical measurements for my PhD dissertation in computational neuroscience.
+The study was perfromed in the Brain Stimulation Laboratory in the Ben-Gurion University of the Negev &mdash 
+https://lifeserv.bgu.ac.il/wp/azangen/ &mdash under the supervision of Prof. Abraham Zangen.
 
-# Dissertation Title
+
+## Dissertation Title
 Electrophysiological Asymmetry in Attention Deficit/Hyperactivity Disorder and Its Modulation by Effective Treatment
 
 ## Measurements
-**Behavrioal:** stop-signal reaction time (SSRT), measured via the stop-signal task (SST). 
-**Electrophysiological:** resting-state (RS) EEG (amplitude & asymmetry); SST event-related potentinal (ERP; amplitude & asymmetry);
-spectral coherence; TMS-EEG - TMS-evoked potential (TEP) and inter-hemispheric signal propagation (ISP).
-**Clinical:** total symptoms salce (normalized t-scores) of the Conners’ Adult ADHD Rating Scales Self-report Long-version (CAARS-S:L)
+**Behavioral:** stop-signal reaction time (SSRT), measured via the stop-signal task (SST). 
+**Electrophysiological:** resting-state (RS) EEG (amplitude & asymmetry); SST event-related potential (ERP; amplitude & asymmetry); spectral coherence; TMS-EEG - TMS-evoked potential (TEP) and inter-hemispheric signal propagation (ISP).
+**Clinical:** total symptoms scale (normalized t-scores) of the Conners’ Adult ADHD Rating Scales Self-report Long-version (CAARS-S:L)
 (see https://www.pearsonclinical.com.au/products/view/382).
-Treatment outcomes: treatment-related changes (i.e., after vs. before treament) in SSRT (cognitive outcome) and CAARS total symptoms (clinical outcome).
+Treatment outcomes: treatment-related changes (i.e., after vs. before treatment) in SSRT (cognitive outcome) and CAARS total symptoms (clinical outcome).
 
-## Treatmeent
+## Treatment
 ADHD participants underwent a 15-session high-frequency (18 Hz) rTMS treatment using either H-coil, Figure-8, or sham stimulation targeted at the right prefrontal cortex (rPFC). 
 
 ## Participants:
 101 ADHD adults (75 males), aged 20-46 years (mean = 27.47; SD = 3.97), and 80 control participants (39 males), aged 21-38 years (mean = 25.87; SD = 3.26).
-52 ADHD participants which enrolled in the multi-session TMS treatment were randomly assigned to recieve TMS treatment using an
+52 ADHD participants which enrolled in the multi-session TMS treatment were randomly assigned to receive TMS treatment using an
 H-coil, Figure-8, or Sham coil (n = 20, 16, 16, respectively).
 
 ## Analyses
-1. Baseline Group comparisons (ADHD vs. control) - ANOVAs and compairsons
-2. Baseline Relationships (between electrophysiological measures and SSRT, ADHD symptom severity, TEP and ISP) - pearson correlations and multiple regressions
-2. Treatment Effects - ANOVAs and compairsons
+1. Baseline Group comparisons (ADHD vs. control) - ANOVAs and comparisons
+2. Baseline Relationships (between electrophysiological measures and SSRT, ADHD symptom severity, TEP and ISP) - Pearson correlations and multiple regressions
+2. Treatment Effects - ANOVAs and comparisons
 3. Prediction of treatment outcomes - multiple regressions
 4. Relationship to treatment outcomes - multiple regressions
 
 ## Regions of interest:
 Frontal: FC2, FC4, F2 &F4 electrodes (used for baseline analysis)
-Stimulation: F2 & F4 electrodes (used for treamtment analysis)
+Stimulation: F2 & F4 electrodes (used for treatment analysis)
 
 # Dissertation Abstract
 Attention deficit hyperactivity disorder (ADHD) is a common neuropsychiatric disorder characterized by excessive inattention, hyperactivity, and impulsivity—either alone or in combination. While ADHD has been associated with a multitude of cognitive, neurobiological, and genetic factors, as well as with various electrophysiological abnormalities observed during resting-state and task performance, its precise etiology is currently unclear. This is especially true for adult ADHD, as most of the current literature is based on studies with children. One influential account of ADHD is the right-hemisphere account, which implicates a right-hemispheric deficit in this disorder and suggests that ADHD symptoms arise from the disruption of lateralized right-hemispheric processes. One such process is response inhibition—the ability to deliberately withhold a pre-potent, routine, or dominant response—which is compromised in ADHD and considered a core determinant of this disorder. Response inhibition is commonly investigated via the stop-signal task (SST), in which it is estimated as stop-signal reaction time (SSRT) and reflected in electroencephalogram (EEG) recording by the right-frontal N200 and by the central P300 event-related potential components. In recent years, the asymmetry account of ADHD has been proposed, suggesting that the observed right-hemispheric deficit in this condition is better explained by the ratio of activation between the two hemispheres, most prominently in frontal regions, rather than by the activation of the right hemisphere alone. However, as studies supporting this account have mainly focused on spontaneous Alpha-band oscillations, the role of asymmetry abnormalities in ADHD-related cognitive and clinical symptoms is yet to be understood. Furthermore, the underlying mechanism of asymmetry abnormalities in ADHD is currently not well understood. Relevantly, functional asymmetry has been indicated to be subserved by the transmission of inter-hemispheric inhibitory signaling from a strongly activated region in one hemisphere to the homologous region of the contralateral hemisphere through the corpus callosum, the structural integrity of which has been indicated to be compromised in ADHD.
