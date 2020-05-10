@@ -7,8 +7,8 @@ The study was perfromed in the Brain Stimulation Laboratory in the Ben-Gurion Un
 Electrophysiological Asymmetry in Attention Deficit/Hyperactivity Disorder and Its Modulation by Effective Treatment
 
 ## Measurements
-**Behavioral:** stop-signal reaction time (SSRT), measured via the stop-signal task (SST). 
-**Electrophysiological:** resting-state (RS) EEG (amplitude & asymmetry); SST event-related potential (ERP; amplitude & asymmetry); spectral coherence; TMS-EEG - TMS-evoked potential (TEP) and inter-hemispheric signal propagation (ISP).
+**Behavioral:** stop-signal reaction time (SSRT), measured via the stop-signal task (SST). \
+**Electrophysiological:** resting-state (RS) EEG (amplitude & asymmetry); SST event-related potential (ERP; amplitude & asymmetry); spectral coherence; TMS-EEG - TMS-evoked potential (TEP) and inter-hemispheric signal propagation (ISP).\
 **Clinical:** total symptoms scale (normalized t-scores) of the Conners’ Adult ADHD Rating Scales Self-report Long-version (CAARS-S:L)
 (see https://www.pearsonclinical.com.au/products/view/382).
 Treatment outcomes: treatment-related changes (i.e., after vs. before treatment) in SSRT (cognitive outcome) and CAARS total symptoms (clinical outcome).
